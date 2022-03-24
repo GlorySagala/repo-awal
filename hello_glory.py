@@ -1,2 +1,3 @@
 print('hello Glory!')
-print('Huraaa!')
+print('Huraaa huraaa!')
+print(semangat)
